@@ -1,5 +1,12 @@
-What is the name of the component in this application?
-Name one prop and one state element in the code. - count is a prop and the numbers used are the states
-How are curly braces ({}) used in the JSX code. - enclosing functions
-Identify one anonymous function in the code. - clickHandler
-Does the application, when run on either Android or iOS, use HTML and/or CSS? Both
+CS 262 - Lab 2
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html
+
+hacks that I had to make: none
+
+Answers to the lab questions:
+
+#1
+#2 count is a prop and the numbers used are the states
+#3 enclosing functions
+#4 clickHandler
+#5 Both
