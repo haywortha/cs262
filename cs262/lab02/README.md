@@ -5,8 +5,8 @@ hacks that I had to make: none
 
 Answers to the lab questions:
 
-#1
-#2 count is a prop and the numbers used are the states
-#3 enclosing functions
-#4 clickHandler
-#5 Both
+* 1
+* 2 count is a prop and the numbers used are the states
+* 3 enclosing functions
+* 4 clickHandler
+* 5 Both
